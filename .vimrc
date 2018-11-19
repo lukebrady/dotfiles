@@ -8,9 +8,14 @@ let g:terraform_commentstring='//%s'
 set tabstop=4
 set number
 set backspace=2
+set encoding=utf-8
+set background=dark
+colorscheme desert
 
 let g:ycm_autoclose_preview_window_after_completion=1
 map <leader>g  :YcmCompleter GoToDefinitionElseDeclaration<CR>
+
+let python_highlight_all=1
 
 set nocompatible              " required
 filetype off                  " required
@@ -24,6 +29,10 @@ Plugin 'gmarik/Vundle.vim'
 Plugin 'vim-scripts/indentpython.vim'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'vim-terraform'
+Plugin 'puppet'
+Plugin 'vim-syntastic/syntastic'
+Plugin 'nvie/vim-flake8'
+Plugin 'jnurmine/Zenburn'
 " " add all your plugins here (note older versions of Vundle
 " " used Bundle instead of Plugin)
 "
