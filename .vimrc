@@ -14,7 +14,7 @@ colorscheme desert
 
 let g:ycm_autoclose_preview_window_after_completion=1
 map <leader>g  :YcmCompleter GoToDefinitionElseDeclaration<CR>
-
+let NERDTreeIgnore=['\.pyc$', '\~$']
 let python_highlight_all=1
 
 set nocompatible              " required
@@ -33,6 +33,11 @@ Plugin 'puppet'
 Plugin 'vim-syntastic/syntastic'
 Plugin 'nvie/vim-flake8'
 Plugin 'jnurmine/Zenburn'
+Plugin 'scrooloose/nerdtree'
+Plugin 'jistr/vim-nerdtree-tabs'
+Plugin 'tpope/vim-fugitive'
+Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
+
 " " add all your plugins here (note older versions of Vundle
 " " used Bundle instead of Plugin)
 "
