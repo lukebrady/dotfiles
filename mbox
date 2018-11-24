@@ -1,0 +1,82 @@
+From MAILER-DAEMON  Tue Oct 24 11:04:27 2017
+Return-Path: <>
+X-Original-To: ltbrady@C02TF27FHF1P.localdomain
+Delivered-To: ltbrady@C02TF27FHF1P.localdomain
+Received: by C02TF27FHF1P.localdomain (Postfix)
+	id 3FD524E83FE; Tue, 24 Oct 2017 11:04:27 -0400 (EDT)
+Date: Tue, 24 Oct 2017 11:04:27 -0400 (EDT)
+From: MAILER-DAEMON@C02TF27FHF1P.localdomain (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ltbrady@C02TF27FHF1P.localdomain
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="560D24E83C4.1508857467/C02TF27FHF1P.localdomain"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20171024150427.3FD524E83FE@C02TF27FHF1P.localdomain>
+Status: RO
+
+This is a MIME-encapsulated message.
+
+--560D24E83C4.1508857467/C02TF27FHF1P.localdomain
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host c02tf27fhf1p.localdomain.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<luke.brady@ung.edu>: host ung-edu.mail.protection.outlook.com[216.32.181.106]
+    said: 550 5.7.606 Access denied, banned sending IP [168.30.177.146]. To
+    request removal from this list please visit https://sender.office.com/ and
+    follow the directions. For more information please go to
+    http://go.microsoft.com/fwlink/?LinkID=526655 (AS16012609) (in reply to
+    RCPT TO command)
+
+--560D24E83C4.1508857467/C02TF27FHF1P.localdomain
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+Content-Transfer-Encoding: 8bit
+
+Reporting-MTA: dns; C02TF27FHF1P.localdomain
+X-Postfix-Queue-ID: 560D24E83C4
+X-Postfix-Sender: rfc822; ltbrady@C02TF27FHF1P.localdomain
+Arrival-Date: Tue, 24 Oct 2017 11:04:11 -0400 (EDT)
+
+Final-Recipient: rfc822; luke.brady@ung.edu
+Original-Recipient: rfc822;luke.brady@ung.edu
+Action: failed
+Status: 5.7.606
+Remote-MTA: dns; ung-edu.mail.protection.outlook.com
+Diagnostic-Code: smtp; 550 5.7.606 Access denied, banned sending IP
+    [168.30.177.146]. To request removal from this list please visit
+    https://sender.office.com/ and follow the directions. For more information
+    please go to  http://go.microsoft.com/fwlink/?LinkID=526655 (AS16012609)
+
+--560D24E83C4.1508857467/C02TF27FHF1P.localdomain
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <ltbrady@C02TF27FHF1P.localdomain>
+Received: by C02TF27FHF1P.localdomain (Postfix, from userid 375868766)
+	id 560D24E83C4; Tue, 24 Oct 2017 11:04:11 -0400 (EDT)
+To: luke.brady@ung.edu
+Subject: Hello There
+Message-Id: <20171024150411.560D24E83C4@C02TF27FHF1P.localdomain>
+Date: Tue, 24 Oct 2017 11:04:11 -0400 (EDT)
+From: ltbrady@C02TF27FHF1P.localdomain (Luke Brady)
+
+Hello Luke
+
+--560D24E83C4.1508857467/C02TF27FHF1P.localdomain--
+
