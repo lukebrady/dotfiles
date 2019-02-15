@@ -1,3 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =3
 let g:netrw_dirhist_1='/home/luke/Desktop/software/synthia-infrastructure/puppet/modules/provision/manifests'
+let g:netrw_dirhist_2='/Users/ltbrady/.config/powershell'
+let g:netrw_dirhist_3='/Users/ltbrady/.config/powershell/powershellget'
